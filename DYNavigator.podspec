@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
 
-  s.name         = "Navigator"
+  s.name         = "DYNavigator"
   s.version      = "1.0.0"
   s.summary      = "A simple url navigator."
 
